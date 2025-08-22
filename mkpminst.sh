@@ -3,4 +3,4 @@ curl -O https://mkpm.github.io/pm/versions/mkpmnewest
 chmod +x mkpmnewest
 mkdir -p ~/bin/mkpm/bin
 mv mkpmnewest ~/bin/mkpm/bin/mkpm
-echo 'export PATH="$HOME/bin/mkpm/sh:$PATH"' >> ~/.bashrc
+echo 'export PATH="$HOME/bin/mkpm/bin:$PATH"' >> ~/.bashrc
