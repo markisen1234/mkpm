@@ -5,7 +5,7 @@ if [ "$1" = "install" ] && [ -n "$2" ]; then
   PKG="$2"
   BIN_DIR="$HOME/bin"
   PKG_TAR="$BIN_DIR/$PKG.tar.gz"
-  PKG_URL="https://mkpm.github.io/packages/$PKG.tar.gz"
+  PKG_URL="https://markisen1234.github.io/packages/$PKG.tar.gz"
 
   mkdir -p "$BIN_DIR"
 
