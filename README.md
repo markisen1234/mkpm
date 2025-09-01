@@ -1,2 +1,2 @@
-# mkpm.github.io
-mkpm website
+# mkpm
+mkpm page
